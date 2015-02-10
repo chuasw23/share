@@ -9,7 +9,7 @@
     <license>MIT</license>
     
     <engines>
-        <engine name="cordova" version=">=3.9.0" />
+        <engine name="cordova" version=">=2.9.0" />
     </engines>
     <!---->
     <js-module src="plugins/org.apache.cordova.plugin/www/toast.js" name="AdMob">
